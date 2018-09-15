@@ -1,0 +1,5 @@
+description: postgreSQL 9.5 
+hostname: localhost
+port: 5432
+password: mansi27
+database: JustDoIt
